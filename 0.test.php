@@ -1,4 +1,4 @@
 <?php 
-phpinfo();  //顯示PHP的系統資訊
+phpinfo(); //顯示PHP的系統資訊
 ?>
 
